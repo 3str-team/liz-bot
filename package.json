@@ -1,6 +1,6 @@
 {
-  "name": "tg-myself-bot-node",
-  "version": "1.0.0",
+  "name": "liz-love-bot",
+  "version": "0.0.1",
   "description": "",
   "main": "bot.js",
   "scripts": {
